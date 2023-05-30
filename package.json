@@ -1,0 +1,15 @@
+{
+  "name": "orbital-cipher-gen",
+  "version": "1.0.0",
+  "description": "Orbital Cipher Gen or OCG is a simple tool for creating encryption strings",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OrbitalT",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
